@@ -5,7 +5,7 @@ dbcon();
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>I-TRACKING WIFI</title>	
+        <title>I-TRACKING INVENTORY WIFI</title>	
         <meta name="description" content="I-TRACKING WIFI">
 		<meta name="author" content="INSTITUT ADHI TAMA SURABAYA">
 		<meta charset="UTF-8">
